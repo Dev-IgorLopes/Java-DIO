@@ -1,10 +1,10 @@
 
 
-import java.util.Scanner;
+//import java.util.Scanner;
 
 public class Exec1 {
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
+      //  Scanner scan = new Scanner(System.in);
        
     Mensagem.mensagem(2);
     Calculadora.soma(34, 45);
